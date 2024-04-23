@@ -1,0 +1,2 @@
+#file handling
+f=open('')
